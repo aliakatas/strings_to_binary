@@ -1,9 +1,9 @@
 # String to Binary converter
 
-Quick converter from characters (ASCII) to binary format (8-bit).
+Quick converter of ASCII characters into binary format (8-bit).
 
 ## Usage
-Compile and run the executable by providing the string or strings to converted as arguments.
+Compile and run the executable by providing the string or strings to be converted as arguments.
 
 ### Example
 
